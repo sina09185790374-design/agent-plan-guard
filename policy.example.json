@@ -1,0 +1,1 @@
+{"_comment":"agent-plan-guard policy. Steps stay inside allowed_roots; every step must carry a note.","allowed_binaries":["python3","ls","echo","cat","find","grep","wc","head","tail","date"],"allowed_roots":["."],"max_timeout_seconds":300,"require_note":true}

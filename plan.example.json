@@ -1,0 +1,1 @@
+{"plan_name":"morning-safety-demo","steps":[{"argv":["python3","-c","print('guard is watching')"],"cwd":".","id":"greet","note":"Confirm the interpreter answers before touching anything else.","timeout":30},{"argv":["ls","-la"],"cwd":".","id":"list-workspace","note":"Read-only inventory of the working directory.","timeout":30}]}
